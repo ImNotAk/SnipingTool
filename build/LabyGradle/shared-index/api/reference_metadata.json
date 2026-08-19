@@ -1,0 +1,1 @@
+{"referenceStorage":"com.example.signsearcher.api.generated.ReferenceStorage","references":[{"className":"com.example.signsearcher.bridge.SignSearchBridge","methodName":"signSearchBridge","fieldName":"signSearchBridge","named":false,"parameters":[],"overridden":false,"singleton":false,"notNull":true,"isInterface":true}],"implementations":[],"projectName":"api"}

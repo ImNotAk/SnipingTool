@@ -1,0 +1,13 @@
+{
+  "mappings": {},
+  "data": {
+    "searge": {
+      "com/example/signsearcher/v1_8_9/mixins/MixinEntityRenderer": {
+        "renderWorldPass": "Lbfk;a(IFJ)V"
+      },
+      "com/example/signsearcher/v1_8_9/mixins/MixinMinecraft": {
+        "runTick": "Lave;s()V"
+      }
+    }
+  }
+}

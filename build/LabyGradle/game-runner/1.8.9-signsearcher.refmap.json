@@ -1,0 +1,13 @@
+{
+  "mappings": {},
+  "data": {
+    "searge": {
+      "com/example/signsearcher/v1_8_9/mixins/MixinMinecraft": {
+        "runTick()V": "Lave;s()V"
+      },
+      "com/example/signsearcher/v1_8_9/mixins/MixinRenderGlobal": {
+        "renderEntities(Lnet/minecraft/entity/Entity;Lnet/minecraft/client/renderer/culling/ICamera;F)V": "Lbfr;a(Lpk;Lbia;F)V"
+      }
+    }
+  }
+}

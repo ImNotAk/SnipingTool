@@ -1,0 +1,1 @@
+{"required":true,"priority":1001,"compatibilityLevel":"JAVA_21","refmap":"1.8.9-signsearcher.refmap.json","package":"com.example.signsearcher.v1_8_9.mixins","verbose":false,"minVersion":"0.8.2","injectors":{"defaultRequire":1},"client":["MixinRenderGlobal","MixinMinecraft"]}

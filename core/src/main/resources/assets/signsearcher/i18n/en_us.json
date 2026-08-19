@@ -1,0 +1,75 @@
+{
+  "signsearcher.settings.header.general.name": "General",
+
+  "signsearcher.settings.enabled.name": "Enable Addon",
+  "signsearcher.settings.enabled.description": "Turn FV Celle Sniper on or off.",
+
+  "signsearcher.settings.showText.name": "Show ESP Text",
+  "signsearcher.settings.showText.description": "Show matching sign text above signs.",
+
+  "signsearcher.settings.toggleKey.name": "Toggle Key",
+  "signsearcher.settings.toggleKey.description": "Type a key like G, P, RSHIFT, or NUMPAD1.",
+
+  "signsearcher.settings.textScale.name": "ESP Text Size",
+  "signsearcher.settings.textScale.description": "Change the size of the floating sign text.",
+
+
+  "signsearcher.settings.header.sign1.name": "Sign 1",
+
+  "signsearcher.settings.query1.name": "Search Text",
+  "signsearcher.settings.query1.description": "Text to search for in signs.",
+
+  "signsearcher.settings.red1.name": "Red",
+  "signsearcher.settings.red1.description": "Red color value (0-255).",
+
+  "signsearcher.settings.green1.name": "Green",
+  "signsearcher.settings.green1.description": "Green color value (0-255).",
+
+  "signsearcher.settings.blue1.name": "Blue",
+  "signsearcher.settings.blue1.description": "Blue color value (0-255).",
+
+
+  "signsearcher.settings.header.sign2.name": "Sign 2",
+
+  "signsearcher.settings.query2.name": "Search Text",
+  "signsearcher.settings.query2.description": "Text to search for in signs.",
+
+  "signsearcher.settings.red2.name": "Red",
+  "signsearcher.settings.red2.description": "Red color value (0-255).",
+
+  "signsearcher.settings.green2.name": "Green",
+  "signsearcher.settings.green2.description": "Green color value (0-255).",
+
+  "signsearcher.settings.blue2.name": "Blue",
+  "signsearcher.settings.blue2.description": "Blue color value (0-255).",
+
+
+  "signsearcher.settings.header.sign3.name": "Sign 3",
+
+  "signsearcher.settings.query3.name": "Search Text",
+  "signsearcher.settings.query3.description": "Text to search for in signs.",
+
+  "signsearcher.settings.red3.name": "Red",
+  "signsearcher.settings.red3.description": "Red color value (0-255).",
+
+  "signsearcher.settings.green3.name": "Green",
+  "signsearcher.settings.green3.description": "Green color value (0-255).",
+
+  "signsearcher.settings.blue3.name": "Blue",
+  "signsearcher.settings.blue3.description": "Blue color value (0-255).",
+
+
+  "signsearcher.settings.header.sign4.name": "Sign 4",
+
+  "signsearcher.settings.query4.name": "Search Text",
+  "signsearcher.settings.query4.description": "Text to search for in signs.",
+
+  "signsearcher.settings.red4.name": "Red",
+  "signsearcher.settings.red4.description": "Red color value (0-255).",
+
+  "signsearcher.settings.green4.name": "Green",
+  "signsearcher.settings.green4.description": "Green color value (0-255).",
+
+  "signsearcher.settings.blue4.name": "Blue",
+  "signsearcher.settings.blue4.description": "Blue color value (0-255)."
+}
